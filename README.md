@@ -6,5 +6,5 @@ The prevalence of synesthesia is debatable because there are so many forms of it
 This website showcases just one form of synesthesia: Grapheme-colour synesthesia, in which the individual associates letters and numbers with colors. This website was created utilizing my case of synesthesia.
 Every synesthete's case is different, so my particular colors associated here may not match those of someone else.  
 
-##Directions
+## Directions
 Simply write any text in the input and have it instantly converted to what a synesthete would see reading that same text.
