@@ -1,0 +1,29 @@
+body {
+	background-color: #ddd;
+}
+#titleText {
+	background-color: #ddd;
+	font-size: 96pt;
+}
+#titleDiv {
+	padding: 20px;
+}
+#reader {
+	font-family: 'Consolas';
+	padding: 5px;
+	height: 10vh;
+	overflow-y: scroll;
+	width: 100%;
+}
+.outer {
+	text-align: center;
+	font-size: 36pt;
+	font-family: 'FuturaExtended'
+}
+span {
+	/*text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;*/
+}
